@@ -1,0 +1,7 @@
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\bin\Debug\ConnectingToSQLServer.exe.config
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\bin\Debug\ConnectingToSQLServer.exe
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\bin\Debug\ConnectingToSQLServer.pdb
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.csprojAssemblyReference.cache
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.exe
+D:\Visual Studio\Repos\ConnectingToSQLServer\ConnectingToSQLServer\obj\Debug\ConnectingToSQLServer.pdb
